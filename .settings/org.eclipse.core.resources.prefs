@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//jni/model/hook=UTF-8
+encoding//jni/model/hook/CydiaSubstrate=GBK
+encoding//jni/model/hook/CydiaSubstrate/Android.mk=UTF-8
+encoding//jni/model/hook/CydiaSubstrate/Common/Common.cpp=GBK
+encoding//jni/model/hook/CydiaSubstrate/SubstrateHook.cy.cpp=UTF-8
+encoding//jni/model/hook/hooker(\u53EAPtrace\u9644\u52A0)/jni/ptraceAttach.cpp=UTF-8
+encoding//jni/model/pkg2pid=UTF-8
+encoding/<project>=UTF-8
