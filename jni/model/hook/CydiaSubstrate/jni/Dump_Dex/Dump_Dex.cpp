@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <pthread.h>
 #include <sys/stat.h>
-#include "HFile/NativeLog.h"
+#include "NativeLog.h"
 #include "Dump_Dex.H"
 #include "Dex_ClassDef.H"
 #include "Dex_Header.H"

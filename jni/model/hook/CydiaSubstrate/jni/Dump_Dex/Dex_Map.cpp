@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/stat.h>
-#include "HFile/NativeLog.h"
+#include "NativeLog.h"
 #include "Dump_Dex.H"
 #include "Dex_Util.H" 
 #include "Module_Mem.H"

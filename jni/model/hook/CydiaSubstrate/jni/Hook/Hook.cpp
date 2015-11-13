@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <sys/stat.h>
 #include "substrate.h"
-#include "HFile/NativeLog.h"
+#include "NativeLog.h"
 #include "Dump_Dex/DumpDex.H"
 
 //Dvm函数对应表
@@ -20,7 +20,7 @@ void* My_dexFileParse(int *inDex, unsigned int length, int parseFlags){
 }
 
 /**
- *			Hook_Main
+ *	Hook_Main
  *align_Len
  */
  static bool first = true;
